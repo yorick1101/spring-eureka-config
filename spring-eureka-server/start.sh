@@ -1,0 +1,1 @@
+docker run -d -p 8761:8761 --name eureka hauchung/spring-eureka:2.3.7
